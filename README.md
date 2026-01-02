@@ -1,6 +1,5 @@
 ## Welcome to EKHOVPN
 
 - 📫 How to reach us: info@ekhovpn.com
-
-
-![BibleVizArc7mediumOrig](https://github.com/user-attachments/assets/0bfb2b06-d293-4e0b-bf46-8d5704488552)
+  
+![IMG_0039](https://github.com/user-attachments/assets/44e93a0f-b7e0-4fec-8e59-bf9ccfb2cdaa)
