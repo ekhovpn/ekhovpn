@@ -1,6 +1,10 @@
 ## Welcome to the EKHOVPN project
 
-Secure your digital echo // Say NO to censorship & surveillance // Say YES to anonymity
+// Secure your digital echo //
+- Say NO to censorship & surveillance
+- Say NO to ads, trackers, & malware
+- Say YES to anonymity
+
   
 📫 How to reach us: info@ekhovpn.com // https://ekhovpn.com
 
