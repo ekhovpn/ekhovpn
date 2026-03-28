@@ -1,3 +1,2 @@
 echo Hello world
-echo. >githubtest.txt
-dir
+set
